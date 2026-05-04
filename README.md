@@ -1,7 +1,5 @@
-# > aze.cx
-
-My minimalistic webpage where I write about my projects, hobbies and other stuff.
-No frameworks, no bloat, just pure HTML, CSS, and a tiny bit of JS.
+# aze.cx
+My webpage where I write about my projects, hobbies and other stuff.
 
 Feel free to contribute if there's anything you'd like to change.
 
